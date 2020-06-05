@@ -122,9 +122,17 @@ function App() {
       <h3>Declaration</h3>
     </div>
     <Declaration/>
+    <div class="row">
+      <div class="col-md-12">
+        <button onClick={printdoc} class="btn btn-success" id="download">Download</button>
+      </div>
+    </div>
      </div>
    </Fragment>
   );
+}
+function printdoc(event){
+  window.print();
 }
 
 export default App;

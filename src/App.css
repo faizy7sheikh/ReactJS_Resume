@@ -37,3 +37,13 @@
     transform: rotate(360deg);
   }
 }
+#resumepic{
+  margin-left: 200px;
+  /* border: solid black 2px; */
+  border-radius: 180px;
+  box-shadow: 2px 2px blue;
+}
+
+.row1{
+  margin-top: 20px;
+}
