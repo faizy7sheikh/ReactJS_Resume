@@ -1,12 +1,14 @@
 This project is based on React js. I have developed my resume online with the help of react js
 
-
-## ScreenShot
-
-
-
 ## Demo Link
 
+open: [https://faizy7sheikh.github.io/ReactJS_Resume/]
+
+## ScreenShot
+<img src="public/image/front-image.png" height="50%"/>
+
+<p>onclick </p>
+<img src="public/image/image1.png" height="50%"/>
 
 ## Available Scripts
 
